@@ -47,6 +47,10 @@ Se lo è, stampa un messaggio come "Errore: Non è possibile dividere per zero."
 
 Tipo di Variabili: Pensa se ti servono int o double per i numeri e il risultato, soprattutto considerando la divisione.
 
+# Esercizi 3 e 4 
+
+Creazione classi con attributi, costruttori e metodi 
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
