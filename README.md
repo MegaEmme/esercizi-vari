@@ -47,9 +47,13 @@ Se lo è, stampa un messaggio come "Errore: Non è possibile dividere per zero."
 
 Tipo di Variabili: Pensa se ti servono int o double per i numeri e il risultato, soprattutto considerando la divisione.
 
-# Esercizi 3 e 4 
+# Esercizi 3/4 
 
 Creazione classi con attributi, costruttori e metodi 
+
+# Esercizi 5/6 
+
+Array
 
 ## Getting Started
 
